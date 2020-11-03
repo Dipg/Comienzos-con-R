@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+-   Cambiar o modificar variables en un dataset.
+
+<details>
+
+Hola
+```
+CODE!
+```
+</details>
+

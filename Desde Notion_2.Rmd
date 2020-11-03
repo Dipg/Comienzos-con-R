@@ -1,0 +1,12 @@
+# Notebook
+
+- Cambiar o modificar variables en un dataset.
+- Click to toggle contents of
+
+    ```
+    CODE!
+    ```
+
+- tipo
+    - Mismo
+
